@@ -45,6 +45,7 @@ function ImageDetails() {
                 <div><span className="font-bold">Height: </span>{Result.height}</div>
                 <div><span className="font-bold">Types: </span>{Result.type1},{Result.type2}</div>
             </div>
+            
         </>
     )
 }
